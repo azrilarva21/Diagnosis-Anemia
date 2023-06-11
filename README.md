@@ -18,5 +18,7 @@ Kemudian, fungsi `checkSymptom` digunakan untuk menentukan jenis anemia berdasar
 
 Created By :
 1204011 - Wildan Azril Arvany
+
 1204013 - Fauziah Henni Hasibuan
+
 1204021 - Mayke Andani Rohmaniar
