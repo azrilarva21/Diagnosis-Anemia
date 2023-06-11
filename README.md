@@ -17,6 +17,7 @@ Kemudian, fungsi `checkSymptom` digunakan untuk menentukan jenis anemia berdasar
 3. Diagnosis anemia ditentukan berdasarkan aturan-aturan yang ada, di mana setiap jenis anemia memiliki gejala yang spesifik. Fungsi `checkSymptom` menggunakan aturan ini secara implisit dalam menentukan diagnosis berdasarkan gejala yang dipilih oleh pengguna.
 
 Created By :
+
 1204011 - Wildan Azril Arvany
 
 1204013 - Fauziah Henni Hasibuan
